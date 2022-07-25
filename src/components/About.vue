@@ -3,11 +3,11 @@
     <div class="container w-[1200px] mx-auto flex justify-center">
       <div class="w-[384px] text-center">
         <div>
-          <div class="text-[64px] mb-10">About</div>
+          <h2 class="text-[64px] mb-10">About</h2>
           <img src="../assets/images/photo.png" alt="about-me" />
           <div class="pt-5 pb-6 border-b-[1px] border-black">
-            <h1 class="text-2xl mb-1">Joanne Chen</h1>
-            <div class="text-2xl mb-2">1997/10/10</div>
+            <p class="text-2xl mb-1">Joanne Chen</p>
+            <p class="text-2xl mb-2">1997/10/10</p>
             <p class="text-2xl">National Hex School Normal University Department of Visual Design</p>
           </div>
         </div>
