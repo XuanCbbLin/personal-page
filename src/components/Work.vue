@@ -1,6 +1,6 @@
 <template>
   <section class="pt-14 pb-36">
-    <div class="container w-[1200px] mx-auto">
+    <div class="container w-[75rem] mx-auto">
       <div class="text-center mb-14">
         <h2 class="text-[64px] mb-4">Other Works</h2>
         <p class="text-xl">2016-2020 年累積的作品 海報/廣告/攝影/LOGO/3D</p>

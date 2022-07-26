@@ -1,6 +1,6 @@
 <template>
   <section class="banner h-[100vh]">
-    <div class="container h-full mx-auto w-[1200px] flex justify-center items-center">
+    <div class="container h-full mx-auto w-[75rem] flex justify-center items-center">
       <div class="text-white">
         <div>Here’s</div>
         <h1 class="text-[5rem] mb-8">JOANNE</h1>
